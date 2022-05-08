@@ -1,4 +1,4 @@
-# bad_craftzones
+# bad_craftzones for your RedEM:RP server
 You can have up to 12 crafting zones for your RedEM:RP inventory
 
 Config Example
